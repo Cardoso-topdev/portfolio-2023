@@ -1,15 +1,15 @@
 {
   "name": "cardoso-topdev",
   "version": "2.0.0",
-  "description": "Oscar Cardoso (cardoso-topdev)'s Personal Portfolio",
+  "description": "Oscar Garcia (cardoso-topdev)'s Personal Portfolio",
   "main": "index.js",
-  "author": "Oscar Cardoso",
+  "author": "Oscar Garcia",
   "license": "MIT",
   "keywords": [
     "Oscar",
-    "Oscar Cardoso",
-    "Oscar Cardoso Portfolio",
-    "Oscar Cardoso (cardoso-topdev)'s Personal Portfolio"
+    "Oscar Garcia",
+    "Oscar Garcia Portfolio",
+    "Oscar Garcia (cardoso-topdev)'s Personal Portfolio"
   ],
   "repository": "https://github.com/Cardoso-topdev/portfolio-2023",
   "homepage": "https://cardosolandings",
